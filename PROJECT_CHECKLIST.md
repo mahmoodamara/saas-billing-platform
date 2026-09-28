@@ -1,0 +1,40 @@
+# Project Feature Checklist
+
+- [x] React + TypeScript UI
+- [x] Tailwind CSS
+- [x] ASP.NET Core 8 Web API
+- [x] C# domain/application/infrastructure layers
+- [x] Entity Framework Core + SQL Server
+- [x] Redis usage counters
+- [x] Elasticsearch audit indexing/search
+- [x] JWT authentication
+- [x] Customer/Admin roles
+- [x] Plans
+- [x] Subscriptions
+- [x] Immediate upgrades
+- [x] Proration
+- [x] Scheduled downgrades
+- [x] Billing-cycle worker that applies scheduled changes
+- [x] Cancellation
+- [x] Usage metering
+- [x] Duplicate usage-event protection
+- [x] Usage dashboard
+- [x] Invoice generation
+- [x] Overage calculation
+- [x] Invoice history
+- [x] Mock payment provider abstraction
+- [x] Payment idempotency keys
+- [x] Failed payment simulation
+- [x] Background retries
+- [x] Payment-attempt history
+- [x] Partial/full refunds
+- [x] Audit logging
+- [x] Admin payment operations
+- [x] Swagger/OpenAPI
+- [x] Unit tests for billing math/proration
+- [x] Dockerfiles
+- [x] Docker Compose
+- [x] GitHub Actions CI
+- [x] Automated smoke-test script
+- [x] Architecture documentation
+- [x] Interview talking points
